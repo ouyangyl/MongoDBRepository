@@ -33,6 +33,7 @@ namespace DalTest
         }
 
         [TestMethod]
+        [Ignore]
         public void Insert()
         {
             IProductDal target = ContextRegistry.GetContext().GetObject("ProductDal") as IProductDal;
@@ -44,7 +45,6 @@ namespace DalTest
         }
 
         [TestMethod]
-        [Ignore]
         public void Find()
         {
             IProductDal target = ContextRegistry.GetContext().GetObject("ProductDal") as IProductDal;

@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DX.Listing.Merchant.Data.Core", "DX.Listing.Merchant.Data.Core\DX.Listing.Merchant.Data.Core.csproj", "{BF7C888A-4682-4F4D-A183-3F88D8F36ABF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DX.Listing.Merchant.Data.Dto", "DX.Listing.Merchant.Data.Dto\DX.Listing.Merchant.Data.Dto.csproj", "{95D1FB4D-7ADE-4758-AB94-3358AF3B19B3}"
@@ -20,12 +22,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DX.Listing.Merchant.Data.Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DX.Listing.Merchant.Data.Dal", "DX.Listing.Merchant.Data.Dal\DX.Listing.Merchant.Data.Dal.csproj", "{BA7BA617-0ECF-4D59-9745-096D05C5BE19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeRate", "G:\work\ERM\FirstWebAPI\FirstWebAPI\ExchangeRate\ExchangeRate.csproj", "{F21FCFC6-4EB3-4832-BE3B-D376BD8D52C9}"
-EndProject
 Global
-	GlobalSection(TestCaseManagementSettings) = postSolution
-		CategoryFile = MongoDBRepository.vsmdi
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -51,12 +48,11 @@ Global
 		{BA7BA617-0ECF-4D59-9745-096D05C5BE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA7BA617-0ECF-4D59-9745-096D05C5BE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA7BA617-0ECF-4D59-9745-096D05C5BE19}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F21FCFC6-4EB3-4832-BE3B-D376BD8D52C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F21FCFC6-4EB3-4832-BE3B-D376BD8D52C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F21FCFC6-4EB3-4832-BE3B-D376BD8D52C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F21FCFC6-4EB3-4832-BE3B-D376BD8D52C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MongoDBRepository.vsmdi
 	EndGlobalSection
 EndGlobal

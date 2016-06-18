@@ -6,3 +6,12 @@ E:\study\DDD\MongoDBRepository_ok\MongoDBRepository\DX.Listing.Merchant.Data.Dto
 E:\study\DDD\MongoDBRepository_ok\MongoDBRepository\DX.Listing.Merchant.Data.Dto\bin\Debug\Newtonsoft.Json.xml
 E:\study\DDD\MongoDBRepository_ok\MongoDBRepository\DX.Listing.Merchant.Data.Dto\obj\Debug\DX.Listing.Merchant.Data.Dto.dll
 E:\study\DDD\MongoDBRepository_ok\MongoDBRepository\DX.Listing.Merchant.Data.Dto\obj\Debug\DX.Listing.Merchant.Data.Dto.pdb
+E:\study\DDD\MongoDBRepository\MongoDBRepository\DX.Listing.Merchant.Data.Dto\bin\Debug\DX.Listing.Merchant.Data.Dto.dll
+E:\study\DDD\MongoDBRepository\MongoDBRepository\DX.Listing.Merchant.Data.Dto\bin\Debug\DX.Listing.Merchant.Data.Dto.pdb
+E:\study\DDD\MongoDBRepository\MongoDBRepository\DX.Listing.Merchant.Data.Dto\bin\Debug\MongoDB.Bson.dll
+E:\study\DDD\MongoDBRepository\MongoDBRepository\DX.Listing.Merchant.Data.Dto\bin\Debug\Newtonsoft.Json.dll
+E:\study\DDD\MongoDBRepository\MongoDBRepository\DX.Listing.Merchant.Data.Dto\bin\Debug\MongoDB.Bson.xml
+E:\study\DDD\MongoDBRepository\MongoDBRepository\DX.Listing.Merchant.Data.Dto\bin\Debug\Newtonsoft.Json.xml
+E:\study\DDD\MongoDBRepository\MongoDBRepository\DX.Listing.Merchant.Data.Dto\obj\Debug\DX.Listing.Merchant.Data.Dto.csprojResolveAssemblyReference.cache
+E:\study\DDD\MongoDBRepository\MongoDBRepository\DX.Listing.Merchant.Data.Dto\obj\Debug\DX.Listing.Merchant.Data.Dto.dll
+E:\study\DDD\MongoDBRepository\MongoDBRepository\DX.Listing.Merchant.Data.Dto\obj\Debug\DX.Listing.Merchant.Data.Dto.pdb

@@ -63,10 +63,6 @@
       <Project>{95D1FB4D-7ADE-4758-AB94-3358AF3B19B3}</Project>
       <Name>DX.Listing.Merchant.Data.Dto</Name>
     </ProjectReference>
-    <ProjectReference Include="G:\work\ERM\FirstWebAPI\FirstWebAPI\ExchangeRate\ExchangeRate.csproj">
-      <Project>{f21fcfc6-4eb3-4832-be3b-d376bd8d52c9}</Project>
-      <Name>ExchangeRate</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -24,8 +24,6 @@ namespace DX.Listing.Merchant.Data.Core.MongoDb
         /// </summary
         public ILog Logger { get; set; }
 
-        public ERManager ERManager { get; set; }
-
         public MongoCollection<T> Collection
         {
             get
